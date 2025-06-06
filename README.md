@@ -13,8 +13,9 @@ This project performs real-time face detection using OpenCV's Haar Cascade Class
 - Python 3.x
 - OpenCV
 
-## 💻 Installation
+## ⚙️ Installation & Setup
 
-1. Clone the repository:
+1. Clone this repository:
    ```bash
- git clone https://github.com/Solitaryseeker/Face-Recognition
+   git clone 
+   cd face-detection-opencv
