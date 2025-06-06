@@ -17,4 +17,4 @@ This project performs real-time face detection using OpenCV's Haar Cascade Class
 
 1. Clone the repository:
    ```bash
-  https://github.com/Solitaryseeker/Face-Recognition
+ git clone https://github.com/Solitaryseeker/Face-Recognition
