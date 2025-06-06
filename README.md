@@ -21,10 +21,10 @@ This project performs real-time face detection using OpenCV's Haar Cascade Class
    cd face-detection-opencv
 
 
-#🧠 Model Used
+# 🧠 Model Used
 This project uses Haar Cascade Classifier – a pre-trained face detection model provided by OpenCV.
 
-##📦 What is Haar Cascade?
+## 📦 What is Haar Cascade?
 Haar Cascade is a machine learning-based object detection algorithm used to identify objects in images or video. It was proposed by Paul Viola and Michael Jones in 2001.
 
 OpenCV provides many pre-trained classifiers for detecting faces, eyes, smiles, etc. In this project, we use:
